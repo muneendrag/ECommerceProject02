@@ -1,0 +1,75 @@
+2019-09-23 09:34:09,418 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 09:34:10,640 [main] INFO EcommerceProject - --launching url--
+2019-09-23 09:34:14,194 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 09:34:25,364 [main] INFO EcommerceProject - --entering customer details--
+2019-09-23 09:34:26,318 [main] INFO EcommerceProject - --saving customer data--
+2019-09-23 09:34:28,786 [main] INFO EcommerceProject - --close browser--
+2019-09-23 09:34:31,940 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 09:34:33,091 [main] INFO EcommerceProject - --launching url--
+2019-09-23 09:34:35,997 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 09:34:49,160 [main] INFO EcommerceProject - --searching customer by email--
+2019-09-23 09:34:51,797 [main] INFO EcommerceProject - --close browser--
+2019-09-23 09:34:54,812 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 09:34:55,978 [main] INFO EcommerceProject - --launching url--
+2019-09-23 09:34:58,100 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 09:35:05,726 [main] INFO EcommerceProject - --searching customer by name--
+2019-09-23 09:35:13,270 [main] INFO EcommerceProject - --close browser--
+2019-09-23 09:35:16,440 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 09:35:17,591 [main] INFO EcommerceProject - --launching url--
+2019-09-23 09:35:20,784 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 09:35:31,663 [main] INFO EcommerceProject - -- Login Passed--
+2019-09-23 09:35:34,705 [main] INFO EcommerceProject - ----logout----
+2019-09-23 09:35:40,349 [main] INFO EcommerceProject - -- Login Passed--
+2019-09-23 09:35:43,361 [main] INFO EcommerceProject - --close browser--
+2019-09-23 09:35:46,604 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 09:35:47,751 [main] INFO EcommerceProject - --launching url--
+2019-09-23 09:35:50,666 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 09:35:54,525 [main] INFO EcommerceProject - -- Login Passed--
+2019-09-23 09:35:57,541 [main] INFO EcommerceProject - ----logout----
+2019-09-23 09:36:02,594 [main] INFO EcommerceProject - -- Login Passed--
+2019-09-23 09:36:05,613 [main] INFO EcommerceProject - --close browser--
+2019-09-23 09:36:08,794 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 09:36:09,965 [main] INFO EcommerceProject - --launching url--
+2019-09-23 09:36:12,146 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 09:36:13,353 [main] INFO EcommerceProject - --Login Filed--
+2019-09-23 09:36:15,683 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 09:36:16,837 [main] INFO EcommerceProject - --launching url--
+2019-09-23 09:36:18,672 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 09:36:19,955 [main] INFO EcommerceProject - --Login Filed--
+2019-09-23 14:51:32,015 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 14:51:33,229 [main] INFO EcommerceProject - --launching url--
+2019-09-23 14:51:36,687 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 14:51:49,884 [main] INFO EcommerceProject - --entering customer details--
+2019-09-23 14:51:51,005 [main] INFO EcommerceProject - --saving customer data--
+2019-09-23 14:51:53,344 [main] INFO EcommerceProject - --close browser--
+2019-09-23 14:51:56,602 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 14:51:57,771 [main] INFO EcommerceProject - --launching url--
+2019-09-23 14:52:00,963 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 14:52:11,024 [main] INFO EcommerceProject - --searching customer by email--
+2019-09-23 14:52:16,204 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 14:52:17,345 [main] INFO EcommerceProject - --launching url--
+2019-09-23 14:52:20,201 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 14:52:30,737 [main] INFO EcommerceProject - --searching customer by name--
+2019-09-23 14:52:37,927 [main] INFO EcommerceProject - --close browser--
+2019-09-23 14:52:40,998 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 14:52:42,142 [main] INFO EcommerceProject - --launching url--
+2019-09-23 14:52:43,853 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 14:52:47,959 [main] INFO EcommerceProject - -- Login Passed--
+2019-09-23 14:52:51,097 [main] INFO EcommerceProject - ----logout----
+2019-09-23 14:52:56,178 [main] INFO EcommerceProject - -- Login Passed--
+2019-09-23 14:52:59,187 [main] INFO EcommerceProject - --close browser--
+2019-09-23 14:53:02,412 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 14:53:03,557 [main] INFO EcommerceProject - --launching url--
+2019-09-23 14:53:05,641 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 14:53:09,274 [main] INFO EcommerceProject - -- Login Passed--
+2019-09-23 14:53:12,348 [main] INFO EcommerceProject - ----logout----
+2019-09-23 14:53:17,617 [main] INFO EcommerceProject - -- Login Passed--
+2019-09-23 14:53:20,661 [main] INFO EcommerceProject - --close browser--
+2019-09-23 14:53:23,739 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 14:53:24,904 [main] INFO EcommerceProject - --launching url--
+2019-09-23 14:53:27,760 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 14:53:29,996 [main] INFO EcommerceProject - --Login Filed--
+2019-09-23 14:53:32,330 [main] INFO EcommerceProject - --launching browser--
+2019-09-23 14:53:33,471 [main] INFO EcommerceProject - --launching url--
+2019-09-23 14:53:35,346 [main] INFO EcommerceProject - --entering login details--
+2019-09-23 14:53:38,698 [main] INFO EcommerceProject - --Login Filed--
