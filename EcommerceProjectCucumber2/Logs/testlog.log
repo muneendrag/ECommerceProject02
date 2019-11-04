@@ -73,3 +73,263 @@
 2019-09-23 14:53:33,471 - EcommerceProject -INFO - --launching url--
 2019-09-23 14:53:35,346 - EcommerceProject -INFO - --entering login details--
 2019-09-23 14:53:38,698 - EcommerceProject -INFO - --Login Filed--
+2019-10-09 14:41:00,364 - EcommerceProject -INFO - --launching browser--
+2019-10-09 14:41:01,543 - EcommerceProject -INFO - --launching url--
+2019-10-09 14:41:05,491 - EcommerceProject -INFO - --entering login details--
+2019-10-09 14:41:17,009 - EcommerceProject -INFO - --entering customer details--
+2019-10-09 14:41:18,432 - EcommerceProject -INFO - --saving customer data--
+2019-10-09 14:41:21,135 - EcommerceProject -INFO - --close browser--
+2019-10-09 14:41:24,311 - EcommerceProject -INFO - --launching browser--
+2019-10-09 14:41:25,438 - EcommerceProject -INFO - --launching url--
+2019-10-09 14:41:27,272 - EcommerceProject -INFO - --entering login details--
+2019-10-09 14:41:34,202 - EcommerceProject -INFO - --searching customer by email--
+2019-10-09 14:41:37,315 - EcommerceProject -INFO - --close browser--
+2019-10-09 14:41:40,440 - EcommerceProject -INFO - --launching browser--
+2019-10-09 14:41:41,566 - EcommerceProject -INFO - --launching url--
+2019-10-09 14:41:44,473 - EcommerceProject -INFO - --entering login details--
+2019-10-09 14:41:54,175 - EcommerceProject -INFO - --searching customer by name--
+2019-10-09 14:42:01,306 - EcommerceProject -INFO - --close browser--
+2019-10-09 14:42:04,470 - EcommerceProject -INFO - --launching browser--
+2019-10-09 14:42:05,599 - EcommerceProject -INFO - --launching url--
+2019-10-09 14:42:07,532 - EcommerceProject -INFO - --entering login details--
+2019-10-09 14:42:12,255 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 14:42:15,293 - EcommerceProject -INFO - ----logout----
+2019-10-09 14:42:20,611 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 14:42:23,617 - EcommerceProject -INFO - --close browser--
+2019-10-09 14:42:26,798 - EcommerceProject -INFO - --launching browser--
+2019-10-09 14:42:27,922 - EcommerceProject -INFO - --launching url--
+2019-10-09 14:42:29,861 - EcommerceProject -INFO - --entering login details--
+2019-10-09 14:42:34,025 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 14:42:37,036 - EcommerceProject -INFO - ----logout----
+2019-10-09 14:42:42,317 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 14:42:45,326 - EcommerceProject -INFO - --close browser--
+2019-10-09 14:42:48,330 - EcommerceProject -INFO - --launching browser--
+2019-10-09 14:42:49,456 - EcommerceProject -INFO - --launching url--
+2019-10-09 14:42:51,636 - EcommerceProject -INFO - --entering login details--
+2019-10-09 14:42:53,148 - EcommerceProject -INFO - --Login Filed--
+2019-10-09 14:42:55,658 - EcommerceProject -INFO - --launching browser--
+2019-10-09 14:42:56,785 - EcommerceProject -INFO - --launching url--
+2019-10-09 14:43:00,462 - EcommerceProject -INFO - --entering login details--
+2019-10-09 14:43:01,804 - EcommerceProject -INFO - --Login Filed--
+2019-10-09 15:05:29,006 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:05:30,192 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:05:33,721 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:05:44,020 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:05:45,153 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:05:47,080 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:05:54,792 - EcommerceProject -INFO - --searching customer by email--
+2019-10-09 15:05:57,801 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:06:00,984 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:06:02,119 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:06:05,025 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:06:18,384 - EcommerceProject -INFO - --searching customer by name--
+2019-10-09 15:06:25,575 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:06:28,679 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:06:29,808 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:06:32,523 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:06:39,835 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:06:42,846 - EcommerceProject -INFO - ----logout----
+2019-10-09 15:06:47,981 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:06:50,987 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:06:54,206 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:06:55,338 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:06:56,787 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:07:02,841 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:07:05,863 - EcommerceProject -INFO - ----logout----
+2019-10-09 15:07:10,987 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:07:13,993 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:07:17,096 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:07:18,228 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:07:20,076 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:07:21,530 - EcommerceProject -INFO - --Login Filed--
+2019-10-09 15:07:23,803 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:07:24,929 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:07:28,598 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:07:29,856 - EcommerceProject -INFO - --Login Filed--
+2019-10-09 15:13:40,787 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:13:41,967 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:13:45,073 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:13:58,306 - EcommerceProject -INFO - --entering customer details--
+2019-10-09 15:13:59,373 - EcommerceProject -INFO - --saving customer data--
+2019-10-09 15:14:02,152 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:14:05,521 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:14:06,651 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:14:09,747 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:14:21,641 - EcommerceProject -INFO - --searching customer by email--
+2019-10-09 15:14:24,376 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:14:27,503 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:14:28,632 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:14:30,467 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:14:38,611 - EcommerceProject -INFO - --searching customer by name--
+2019-10-09 15:14:45,981 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:14:49,106 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:14:50,231 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:14:52,321 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:14:56,647 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:14:59,674 - EcommerceProject -INFO - ----logout----
+2019-10-09 15:15:04,903 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:15:07,908 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:15:10,972 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:15:12,097 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:15:14,733 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:15:18,989 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:15:22,033 - EcommerceProject -INFO - ----logout----
+2019-10-09 15:15:27,615 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:15:30,622 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:15:33,718 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:15:34,846 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:15:38,077 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:15:40,403 - EcommerceProject -INFO - --Login Filed--
+2019-10-09 15:15:42,792 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:15:43,932 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:15:46,062 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:15:47,554 - EcommerceProject -INFO - --Login Filed--
+2019-10-09 15:25:57,632 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:25:58,806 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:26:02,102 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:26:14,003 - EcommerceProject -INFO - --entering customer details--
+2019-10-09 15:26:15,054 - EcommerceProject -INFO - --saving customer data--
+2019-10-09 15:26:18,715 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:26:21,893 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:26:23,020 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:26:25,065 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:26:32,852 - EcommerceProject -INFO - --searching customer by email--
+2019-10-09 15:26:35,649 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:26:38,729 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:26:39,852 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:26:43,051 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:26:53,050 - EcommerceProject -INFO - --searching customer by name--
+2019-10-09 15:27:00,084 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:27:03,313 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:27:04,442 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:27:07,283 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:27:15,945 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:27:18,983 - EcommerceProject -INFO - ----logout----
+2019-10-09 15:27:24,186 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:27:27,199 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:27:30,244 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:27:31,381 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:27:33,203 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:27:37,593 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:27:40,605 - EcommerceProject -INFO - ----logout----
+2019-10-09 15:27:45,839 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:27:48,843 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:27:51,961 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:27:53,099 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:27:54,973 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:27:56,192 - EcommerceProject -INFO - --Login Filed--
+2019-10-09 15:27:58,625 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:27:59,752 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:28:01,796 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:28:05,530 - EcommerceProject -INFO - --Login Filed--
+2019-10-09 15:46:10,749 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:46:11,931 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:46:15,304 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:46:29,991 - EcommerceProject -INFO - --entering customer details--
+2019-10-09 15:46:31,065 - EcommerceProject -INFO - --saving customer data--
+2019-10-09 15:46:34,539 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:46:37,591 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:46:38,740 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:46:40,725 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:46:48,227 - EcommerceProject -INFO - --searching customer by email--
+2019-10-09 15:46:51,348 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:46:54,452 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:46:55,585 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:46:58,569 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:47:07,384 - EcommerceProject -INFO - --searching customer by name--
+2019-10-09 15:47:14,622 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:47:17,621 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:47:18,755 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:47:20,698 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:47:24,905 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:47:27,909 - EcommerceProject -INFO - ----logout----
+2019-10-09 15:47:33,487 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:47:36,497 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:47:39,694 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:47:40,832 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:47:43,828 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:47:50,050 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:47:53,115 - EcommerceProject -INFO - ----logout----
+2019-10-09 15:47:58,308 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:48:01,317 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:48:04,347 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:48:05,478 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:48:07,455 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:48:08,783 - EcommerceProject -INFO - --Login Filed--
+2019-10-09 15:48:11,274 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:48:12,411 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:48:15,623 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:48:16,965 - EcommerceProject -INFO - --Login Filed--
+2019-10-09 15:54:11,865 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:54:13,043 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:54:16,444 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:54:28,630 - EcommerceProject -INFO - --entering customer details--
+2019-10-09 15:54:29,689 - EcommerceProject -INFO - --saving customer data--
+2019-10-09 15:54:32,045 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:54:35,195 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:54:36,331 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:54:39,207 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:54:48,918 - EcommerceProject -INFO - --searching customer by email--
+2019-10-09 15:54:51,829 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:54:54,892 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:54:56,026 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:54:58,929 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:55:07,035 - EcommerceProject -INFO - --searching customer by name--
+2019-10-09 15:55:14,471 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:55:17,479 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:55:18,607 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:55:22,795 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:55:30,615 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:55:33,625 - EcommerceProject -INFO - ----logout----
+2019-10-09 15:55:38,690 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:55:41,695 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:55:44,786 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:55:45,933 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:55:47,542 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:55:51,489 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:55:54,501 - EcommerceProject -INFO - ----logout----
+2019-10-09 15:55:59,803 - EcommerceProject -INFO - -- Login Passed--
+2019-10-09 15:56:02,813 - EcommerceProject -INFO - --close browser--
+2019-10-09 15:56:05,930 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:56:07,069 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:56:09,580 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:56:10,815 - EcommerceProject -INFO - --Login Filed--
+2019-10-09 15:56:13,197 - EcommerceProject -INFO - --launching browser--
+2019-10-09 15:56:14,326 - EcommerceProject -INFO - --launching url--
+2019-10-09 15:56:16,389 - EcommerceProject -INFO - --entering login details--
+2019-10-09 15:56:17,499 - EcommerceProject -INFO - --Login Filed--
+2019-10-17 14:11:29,866 - EcommerceProject -INFO - --launching browser--
+2019-10-17 14:11:31,215 - EcommerceProject -INFO - --launching url--
+2019-10-17 14:11:34,500 - EcommerceProject -INFO - --entering login details--
+2019-10-17 14:11:50,913 - EcommerceProject -INFO - --entering customer details--
+2019-10-17 14:11:53,492 - EcommerceProject -INFO - --launching browser--
+2019-10-17 14:11:54,626 - EcommerceProject -INFO - --launching url--
+2019-10-17 14:11:59,215 - EcommerceProject -INFO - --entering login details--
+2019-10-17 14:12:13,399 - EcommerceProject -INFO - --searching customer by email--
+2019-10-17 14:12:16,436 - EcommerceProject -INFO - --close browser--
+2019-10-17 14:12:19,511 - EcommerceProject -INFO - --launching browser--
+2019-10-17 14:12:20,651 - EcommerceProject -INFO - --launching url--
+2019-10-17 14:12:23,883 - EcommerceProject -INFO - --entering login details--
+2019-10-17 14:12:36,330 - EcommerceProject -INFO - --searching customer by name--
+2019-10-17 14:12:45,608 - EcommerceProject -INFO - --launching browser--
+2019-10-17 14:12:46,751 - EcommerceProject -INFO - --launching url--
+2019-10-17 14:12:48,883 - EcommerceProject -INFO - --entering login details--
+2019-10-17 14:12:54,157 - EcommerceProject -INFO - -- Login Passed--
+2019-10-17 14:12:57,177 - EcommerceProject -INFO - ----logout----
+2019-10-17 14:13:02,375 - EcommerceProject -INFO - -- Login Passed--
+2019-10-17 14:13:05,388 - EcommerceProject -INFO - --close browser--
+2019-10-17 14:13:08,595 - EcommerceProject -INFO - --launching browser--
+2019-10-17 14:13:09,728 - EcommerceProject -INFO - --launching url--
+2019-10-17 14:13:12,163 - EcommerceProject -INFO - --entering login details--
+2019-10-17 14:13:21,557 - EcommerceProject -INFO - -- Login Passed--
+2019-10-17 14:13:24,567 - EcommerceProject -INFO - ----logout----
+2019-10-17 14:13:29,897 - EcommerceProject -INFO - -- Login Passed--
+2019-10-17 14:13:32,908 - EcommerceProject -INFO - --close browser--
+2019-10-17 14:13:35,892 - EcommerceProject -INFO - --launching browser--
+2019-10-17 14:13:37,026 - EcommerceProject -INFO - --launching url--
+2019-10-17 14:13:39,775 - EcommerceProject -INFO - --entering login details--
+2019-10-17 14:13:40,988 - EcommerceProject -INFO - --Login Filed--
+2019-10-17 14:13:43,283 - EcommerceProject -INFO - --launching browser--
+2019-10-17 14:13:44,405 - EcommerceProject -INFO - --launching url--
+2019-10-17 14:13:47,620 - EcommerceProject -INFO - --entering login details--
+2019-10-17 14:13:48,901 - EcommerceProject -INFO - --Login Filed--

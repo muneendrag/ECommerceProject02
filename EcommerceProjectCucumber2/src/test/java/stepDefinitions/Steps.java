@@ -22,7 +22,7 @@ public class Steps extends BaseClass{
 		logger = Logger.getLogger("EcommerceProject");
 		PropertyConfigurator.configure("log4j.properties");
 		
-		System.setProperty("webdriver.chrome.driver", "C:\\Users\\munna\\eclipse-workspace\\EcommerceProjectCucumber01\\Drivers\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\munna\\Downloads\\Code\\ECommerceProject02\\EcommerceProjectCucumber2\\Drivers\\chromedriver.exe");
 		driver=new ChromeDriver();
 		logger.info("--launching browser--");
 		driver.manage().window().maximize();

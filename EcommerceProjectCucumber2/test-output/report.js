@@ -52,7 +52,7 @@ formatter.match({
   "location": "Steps.user_Launch_Chrome_browser()"
 });
 formatter.result({
-  "duration": 8025590500,
+  "duration": 4921604500,
   "status": "passed"
 });
 formatter.match({
@@ -65,7 +65,7 @@ formatter.match({
   "location": "Steps.user_opens_URL(String)"
 });
 formatter.result({
-  "duration": 3446693800,
+  "duration": 3110072300,
   "status": "passed"
 });
 formatter.match({
@@ -82,35 +82,35 @@ formatter.match({
   "location": "Steps.user_enters_Email_as_and_Password_as(String,String)"
 });
 formatter.result({
-  "duration": 355922800,
+  "duration": 352037100,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Login()"
 });
 formatter.result({
-  "duration": 5851378900,
+  "duration": 8378419700,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_can_view_Dashboad()"
 });
 formatter.result({
-  "duration": 24698700,
+  "duration": 27615800,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_click_on_customers_Menu()"
 });
 formatter.result({
-  "duration": 193801500,
+  "duration": 264568500,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_customers_Menu_Item()"
 });
 formatter.result({
-  "duration": 3833169000,
+  "duration": 2535408400,
   "status": "passed"
 });
 formatter.scenario({
@@ -155,28 +155,28 @@ formatter.match({
   "location": "Steps.click_on_Add_new_button()"
 });
 formatter.result({
-  "duration": 2908341400,
+  "duration": 1649186800,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_can_view_Add_new_customer_page()"
 });
 formatter.result({
-  "duration": 7997300,
+  "duration": 7821500,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_enter_customer_info()"
 });
 formatter.result({
-  "duration": 1118997700,
+  "duration": 1065141000,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Save_button()"
 });
 formatter.result({
-  "duration": 2093006300,
+  "duration": 2468922400,
   "status": "passed"
 });
 formatter.match({
@@ -189,14 +189,14 @@ formatter.match({
   "location": "Steps.user_can_view_confirmation_message(String)"
 });
 formatter.result({
-  "duration": 243563600,
+  "duration": 307067300,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.close_browser()"
 });
 formatter.result({
-  "duration": 852600300,
+  "duration": 904157600,
   "status": "passed"
 });
 formatter.background({
@@ -245,7 +245,7 @@ formatter.match({
   "location": "Steps.user_Launch_Chrome_browser()"
 });
 formatter.result({
-  "duration": 3572857000,
+  "duration": 3586972200,
   "status": "passed"
 });
 formatter.match({
@@ -258,7 +258,7 @@ formatter.match({
   "location": "Steps.user_opens_URL(String)"
 });
 formatter.result({
-  "duration": 3185795400,
+  "duration": 3091961300,
   "status": "passed"
 });
 formatter.match({
@@ -275,35 +275,35 @@ formatter.match({
   "location": "Steps.user_enters_Email_as_and_Password_as(String,String)"
 });
 formatter.result({
-  "duration": 388480600,
+  "duration": 388627500,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Login()"
 });
 formatter.result({
-  "duration": 6621031300,
+  "duration": 7680219000,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_can_view_Dashboad()"
 });
 formatter.result({
-  "duration": 11769700,
+  "duration": 46869500,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_click_on_customers_Menu()"
 });
 formatter.result({
-  "duration": 305756700,
+  "duration": 306935900,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_customers_Menu_Item()"
 });
 formatter.result({
-  "duration": 2725427700,
+  "duration": 3464778900,
   "status": "passed"
 });
 formatter.scenario({
@@ -338,29 +338,29 @@ formatter.match({
   "location": "Steps.enter_customer_email()"
 });
 formatter.result({
-  "duration": 363985300,
+  "duration": 498810000,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_search_button()"
 });
 formatter.result({
-  "duration": 2199494900,
+  "duration": 2143197500,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_should_found_email_and_details()"
 });
 formatter.result({
-  "duration": 93888500,
-  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//table[@id\u003d\u0027customers-grid\u0027]/tbody/tr[1]/td[2]\"}\n  (Session info: chrome\u003d76.0.3809.132)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.14.0\u0027, revision: \u0027aacccce0\u0027, time: \u00272018-08-02T20:19:58.91Z\u0027\nSystem info: host: \u0027DESKTOP-TNJSP7M\u0027, ip: \u0027192.168.1.101\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002712.0.2\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.132, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: C:\\Users\\munna\\AppData\\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:55984}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: d5195dcd9e957b08e58c8e70092b069e\n*** Element info: {Using\u003dxpath, value\u003d//table[@id\u003d\u0027customers-grid\u0027]/tbody/tr[1]/td[2]}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:276)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.findElement(RemoteWebElement.java:179)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.findElementByXPath(RemoteWebElement.java:252)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.findElement(RemoteWebElement.java:175)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:567)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)\r\n\tat com.sun.proxy.$Proxy19.findElement(Unknown Source)\r\n\tat pageObjects.SearchCustomerPage.searchCustomerByEmail(SearchCustomerPage.java:80)\r\n\tat stepDefinitions.Steps.user_should_found_email_and_details(Steps.java:156)\r\n\tat ✽.Then user should found email and details(Customer.feature:23)\r\n",
-  "status": "failed"
+  "duration": 89364100,
+  "status": "passed"
 });
 formatter.match({
   "location": "Steps.close_browser()"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 785700200,
+  "status": "passed"
 });
 formatter.background({
   "line": 3,
@@ -408,7 +408,7 @@ formatter.match({
   "location": "Steps.user_Launch_Chrome_browser()"
 });
 formatter.result({
-  "duration": 3644849500,
+  "duration": 3466474500,
   "status": "passed"
 });
 formatter.match({
@@ -421,7 +421,7 @@ formatter.match({
   "location": "Steps.user_opens_URL(String)"
 });
 formatter.result({
-  "duration": 2848265200,
+  "duration": 1833365900,
   "status": "passed"
 });
 formatter.match({
@@ -438,35 +438,35 @@ formatter.match({
   "location": "Steps.user_enters_Email_as_and_Password_as(String,String)"
 });
 formatter.result({
-  "duration": 341754600,
+  "duration": 495556300,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Login()"
 });
 formatter.result({
-  "duration": 7944033900,
+  "duration": 4412539300,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_can_view_Dashboad()"
 });
 formatter.result({
-  "duration": 171016400,
+  "duration": 10495700,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_click_on_customers_Menu()"
 });
 formatter.result({
-  "duration": 283505500,
+  "duration": 330726900,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_customers_Menu_Item()"
 });
 formatter.result({
-  "duration": 1787090100,
+  "duration": 2886858800,
   "status": "passed"
 });
 formatter.scenario({
@@ -506,35 +506,35 @@ formatter.match({
   "location": "Steps.enter_customer_firstname()"
 });
 formatter.result({
-  "duration": 2043492200,
+  "duration": 2023634600,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.enter_customer_lastname()"
 });
 formatter.result({
-  "duration": 2522959600,
+  "duration": 2626226600,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_search_button()"
 });
 formatter.result({
-  "duration": 2135486800,
+  "duration": 2139801900,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_should_found_name_and_details()"
 });
 formatter.result({
-  "duration": 494349600,
+  "duration": 577899800,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.close_browser()"
 });
 formatter.result({
-  "duration": 790628200,
+  "duration": 781059900,
   "status": "passed"
 });
 formatter.uri("Login.feature");
@@ -597,7 +597,7 @@ formatter.match({
   "location": "Steps.user_Launch_Chrome_browser()"
 });
 formatter.result({
-  "duration": 3416625500,
+  "duration": 3463072900,
   "status": "passed"
 });
 formatter.match({
@@ -610,7 +610,7 @@ formatter.match({
   "location": "Steps.user_opens_URL(String)"
 });
 formatter.result({
-  "duration": 1704004400,
+  "duration": 2088607000,
   "status": "passed"
 });
 formatter.match({
@@ -627,14 +627,14 @@ formatter.match({
   "location": "Steps.user_enters_Email_as_and_Password_as(String,String)"
 });
 formatter.result({
-  "duration": 346946400,
+  "duration": 370352300,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Login()"
 });
 formatter.result({
-  "duration": 3638581100,
+  "duration": 3816257400,
   "status": "passed"
 });
 formatter.match({
@@ -647,14 +647,14 @@ formatter.match({
   "location": "Steps.page_Title_should_be(String)"
 });
 formatter.result({
-  "duration": 3255740700,
+  "duration": 3164724400,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_click_on_Log_out_link()"
 });
 formatter.result({
-  "duration": 5064775600,
+  "duration": 5219923700,
   "status": "passed"
 });
 formatter.match({
@@ -667,14 +667,14 @@ formatter.match({
   "location": "Steps.page_Title_should_be(String)"
 });
 formatter.result({
-  "duration": 3023281900,
+  "duration": 3012262300,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.close_browser()"
 });
 formatter.result({
-  "duration": 796051900,
+  "duration": 771842900,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -822,7 +822,7 @@ formatter.match({
   "location": "Steps.user_Launch_Chrome_browser()"
 });
 formatter.result({
-  "duration": 3573770600,
+  "duration": 3410229100,
   "status": "passed"
 });
 formatter.match({
@@ -835,7 +835,7 @@ formatter.match({
   "location": "Steps.user_opens_URL(String)"
 });
 formatter.result({
-  "duration": 2075908000,
+  "duration": 2635751200,
   "status": "passed"
 });
 formatter.match({
@@ -852,14 +852,14 @@ formatter.match({
   "location": "Steps.user_enters_Email_as_and_Password_as(String,String)"
 });
 formatter.result({
-  "duration": 331579200,
+  "duration": 445491600,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Login()"
 });
 formatter.result({
-  "duration": 3262061900,
+  "duration": 3519248000,
   "status": "passed"
 });
 formatter.match({
@@ -872,14 +872,14 @@ formatter.match({
   "location": "Steps.page_Title_should_be(String)"
 });
 formatter.result({
-  "duration": 3111905000,
+  "duration": 3331780000,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.user_click_on_Log_out_link()"
 });
 formatter.result({
-  "duration": 5253103600,
+  "duration": 5573481200,
   "status": "passed"
 });
 formatter.match({
@@ -892,14 +892,14 @@ formatter.match({
   "location": "Steps.page_Title_should_be(String)"
 });
 formatter.result({
-  "duration": 3057844400,
+  "duration": 3014033000,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.close_browser()"
 });
 formatter.result({
-  "duration": 775752300,
+  "duration": 804408200,
   "status": "passed"
 });
 formatter.scenario({
@@ -958,7 +958,7 @@ formatter.match({
   "location": "Steps.user_Launch_Chrome_browser()"
 });
 formatter.result({
-  "duration": 3471644200,
+  "duration": 3413320800,
   "status": "passed"
 });
 formatter.match({
@@ -971,7 +971,7 @@ formatter.match({
   "location": "Steps.user_opens_URL(String)"
 });
 formatter.result({
-  "duration": 2847199800,
+  "duration": 3226508600,
   "status": "passed"
 });
 formatter.match({
@@ -988,14 +988,14 @@ formatter.match({
   "location": "Steps.user_enters_Email_as_and_Password_as(String,String)"
 });
 formatter.result({
-  "duration": 402638600,
+  "duration": 485633700,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Login()"
 });
 formatter.result({
-  "duration": 1657545700,
+  "duration": 1689345600,
   "status": "passed"
 });
 formatter.match({
@@ -1008,7 +1008,7 @@ formatter.match({
   "location": "Steps.page_Title_should_be(String)"
 });
 formatter.result({
-  "duration": 173582100,
+  "duration": 148699300,
   "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.assertTrue(Assert.java:22)\r\n\tat junit.framework.Assert.assertTrue(Assert.java:31)\r\n\tat stepDefinitions.Steps.page_Title_should_be(Steps.java:57)\r\n\tat ✽.Then Page Title should be \"Dashboard / nopCommerce administration\"(Login.feature:19)\r\n",
   "status": "failed"
 });
@@ -1092,7 +1092,7 @@ formatter.match({
   "location": "Steps.user_Launch_Chrome_browser()"
 });
 formatter.result({
-  "duration": 3473012300,
+  "duration": 3502670500,
   "status": "passed"
 });
 formatter.match({
@@ -1105,7 +1105,7 @@ formatter.match({
   "location": "Steps.user_opens_URL(String)"
 });
 formatter.result({
-  "duration": 1867037900,
+  "duration": 2128923600,
   "status": "passed"
 });
 formatter.match({
@@ -1122,14 +1122,14 @@ formatter.match({
   "location": "Steps.user_enters_Email_as_and_Password_as(String,String)"
 });
 formatter.result({
-  "duration": 358092400,
+  "duration": 521463100,
   "status": "passed"
 });
 formatter.match({
   "location": "Steps.click_on_Login()"
 });
 formatter.result({
-  "duration": 773729300,
+  "duration": 713438300,
   "status": "passed"
 });
 formatter.match({
@@ -1142,7 +1142,7 @@ formatter.match({
   "location": "Steps.page_Title_should_be(String)"
 });
 formatter.result({
-  "duration": 2231029900,
+  "duration": 256883800,
   "error_message": "junit.framework.AssertionFailedError\r\n\tat junit.framework.Assert.fail(Assert.java:55)\r\n\tat junit.framework.Assert.assertTrue(Assert.java:22)\r\n\tat junit.framework.Assert.assertTrue(Assert.java:31)\r\n\tat stepDefinitions.Steps.page_Title_should_be(Steps.java:57)\r\n\tat ✽.Then Page Title should be \"Dashboard / nopCommerce administration\"(Login.feature:19)\r\n",
   "status": "failed"
 });

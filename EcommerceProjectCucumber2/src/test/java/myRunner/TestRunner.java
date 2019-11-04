@@ -9,7 +9,8 @@ import cucumber.api.junit.Cucumber;
 		
 		features= {".//Features/"},
 		glue="stepDefinitions",
-		format= {"pretty","html:test-output"},
+		//format= {"pretty","html:test-output"},
+		plugin= {"pretty","html:target/cucumber-html-report","json:target/cucumber-reports/cucumber.json"},
 		monochrome=true,
 		dryRun=false
 	
